@@ -3,3 +3,7 @@ Local: Tran Van Viet (remove)
 Global: Tran Van Viet (remove)
 
 Local: pull
+Global pull
+
+
+resolve pull request successfully
