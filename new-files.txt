@@ -1,3 +1,5 @@
 this is a new file for creating a conflict instance.
 Local: Tran Van Viet (remove)
 Global: Tran Van Viet (remove)
+
+Local: pull
